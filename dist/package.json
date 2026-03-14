@@ -1,9 +1,0 @@
-{
-  "name": "mygame",
-  "version": "1.0.0",
-  "main": "server.cjs",
-  "scripts": {
-    "start": "node server.cjs"
-  },
-  "type": "commonjs"
-}
