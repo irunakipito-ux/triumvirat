@@ -1,9 +1,15 @@
 {
-  "name": "mygame",
+  "name": "triumvirat",
   "version": "1.0.0",
   "main": "server.cjs",
   "scripts": {
     "start": "node server.cjs"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1",
+    "uuid": "^9.0.0",
+    "vite": "^4.4.9"
+  }
 }
